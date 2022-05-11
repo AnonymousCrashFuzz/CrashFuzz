@@ -12,7 +12,7 @@ We applied CrashFuzz to three widely-used cloud systems including ZooKeeper v3.6
 
 | Bug ID | Failure Symptom |
 | ---------- | :-----------:  |
-| [HBASE-26883](URL)(https://issues.apache.org/jira/browse/HBASE-26883) | Data loss |
+| [HBASE-26883](https://issues.apache.org/jira/browse/HBASE-26883) | Data loss |
 | [ZOOKEEPER-4503](https://issues.apache.org/jira/browse/ZOOKEEPER-4503) | Data staleness |
 | [HBASE-26897](https://issues.apache.org/jira/browse/HBASE-26897) | Cluster out of service |
 | [HBASE-26370](https://issues.apache.org/jira/browse/HBASE-26370) | Misleading error message |
