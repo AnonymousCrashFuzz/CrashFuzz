@@ -1,0 +1,11 @@
+docker exec -t C1ZK1 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/io_info'
+docker exec -t C1ZK2 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/io_info'
+docker exec -t C1ZK3 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/io_info'
+docker exec -t C1ZK4 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/io_info'
+docker exec -t C1ZK5 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/io_info'
+
+docker exec -t C1ZK1 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/coverage_info'
+docker exec -t C1ZK2 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/coverage_info'
+docker exec -t C1ZK3 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/coverage_info'
+docker exec -t C1ZK4 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/coverage_info'
+docker exec -t C1ZK5 /bin/bash -ic 'rm -r /home/evaluation/zk-3.6.3/coverage_info'
